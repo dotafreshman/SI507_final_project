@@ -32,7 +32,8 @@
     - `input` name of the location to search
     - `inputtype` use `textquery` to get a text form response
     - `fields` use `geometry` to get coordinate
-
+## Additional Information
+  There is a secret.py containing the keys for running this program. requirements.txt contains the packages needed
 ## Code Structure
 
 - `plot1_map`
